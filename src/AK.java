@@ -1,6 +1,6 @@
 public class AK {
     public static void main(String[] args) {
-        //do something...
+        //do something...main
      //do someting
         //merge2
     }
