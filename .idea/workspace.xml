@@ -146,6 +146,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="do" />
@@ -157,22 +158,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="addname" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="553" y="125" width="1027" height="825" key="DiffContextDialog" timestamp="1649404892976">
+    <state x="553" y="125" width="1027" height="825" key="DiffContextDialog" timestamp="1649407389634">
       <screen x="72" y="25" width="1608" height="1025" />
     </state>
-    <state x="553" y="125" width="1027" height="825" key="DiffContextDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649404892976" />
-    <state x="394" y="113" key="MergeDialog" timestamp="1649404061174">
+    <state x="553" y="125" width="1027" height="825" key="DiffContextDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649407389634" />
+    <state x="394" y="113" key="MergeDialog" timestamp="1649407353443">
       <screen x="72" y="25" width="1608" height="1025" />
     </state>
-    <state x="394" y="113" key="MergeDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649404061174" />
-    <state x="622" y="250" key="MultipleFileMergeDialog" timestamp="1649404061229">
+    <state x="394" y="113" key="MergeDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649407353443" />
+    <state x="622" y="250" key="MultipleFileMergeDialog" timestamp="1649407353499">
       <screen x="72" y="25" width="1608" height="1025" />
     </state>
-    <state x="622" y="250" key="MultipleFileMergeDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649404061229" />
-    <state x="812" y="176" key="RollbackChangesDialog" timestamp="1649405964951">
+    <state x="622" y="250" key="MultipleFileMergeDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649407353499" />
+    <state x="812" y="176" key="RollbackChangesDialog" timestamp="1649407310518">
       <screen x="72" y="25" width="1608" height="1025" />
     </state>
-    <state x="812" y="176" key="RollbackChangesDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649405964951" />
+    <state x="812" y="176" key="RollbackChangesDialog/1680.25.2560.1415/72.25.1608.1025@72.25.1608.1025" timestamp="1649407310518" />
     <state x="566" y="211" key="Vcs.Push.Dialog.v2" timestamp="1649405467990">
       <screen x="72" y="25" width="1608" height="1025" />
     </state>
