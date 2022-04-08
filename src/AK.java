@@ -7,5 +7,6 @@ public class AK {
         //merge
         //rebase branch1111
         System.out.println("rebase main");
+        System.out.println("rebase branch1");
     }
 }
