@@ -1,14 +1,10 @@
 public class AK {
-    //3
     //1
-    //rebase main
+    //rebase branch1
     public static void main(String[] args) {
         //do something...
      //do someting
         //merge
         //rebase branch1111
-        //rebase main
-        //rebase branch1111
-        //rebase main
     }
 }
